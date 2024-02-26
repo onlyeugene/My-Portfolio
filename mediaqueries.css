@@ -53,10 +53,6 @@
     .about-containers{
         margin-top: 0;
     }
-    .section__text{
-        margin: 0;
-    }
-}
 }
 
 @media screen and (max-width:600px) {
@@ -78,7 +74,6 @@
     .section__pic-container img {
         border-radius: 10rem;
         height: 18rem;
-        margin: 0;
       }
 
     .section__picture-container img{
