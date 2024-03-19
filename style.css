@@ -85,7 +85,7 @@ a:hover{
     background-color: white;
     width: 20rem;
     height: 50vh;
-    /* max-height: 0; */
+    max-height: 0;
     transition: all 0.3 ease-in-out;
     overflow: hidden;
 }
